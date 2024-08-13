@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about web development and continuou
 ## 👀 About Me
 
 - 🔭 **Current Interests:** I'm deeply interested in web development, particularly in creating dynamic and interactive user experiences.
-- 🌱 **Currently Learning:** I'm currently diving into **TypeScript** to enhance my development workflow and write more robust code.
+- 🌱 **Currently Learning:** I'm currently diving into **Hilla** to enhance my development workflow and write more robust code.
 - 💼 **Experience:** I have experience working on various web and mobile projects, including websites like [montdescats.fr](https://montdescats.fr)
 
 ## 💞️ Collaboration
